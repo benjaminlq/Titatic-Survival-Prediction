@@ -1,5 +1,10 @@
 # <center> Classification of Survival Status for Titanic Passengers </center>
 --------------------------------------------------
+![](https://img.shields.io/badge/Status-Completed-green)
+![](https://img.shields.io/badge/Competition-Kaggle-blue)
+![](https://img.shields.io/badge/Language-Python-lightgreen)
+![](https://img.shields.io/badge/Package-scikit--learn-orange)
+![](https://img.shields.io/badge/Package-pandas-orange)
 
 ## TABLE OF CONTENTS
   - [Business Problems](#business-problems)
@@ -7,7 +12,6 @@
   - [Feature Engineering](#feature-engineering)
   - [Model Building and Optimization](#model-building-and-optimization)
   - [Model Evaluation](#model-evaluation)
-  - [Conclusion](#conclusion)
 
  ## Business Problems
  In this project, I used the classic Kaggle Titanic dataset. The goal is to predict the survival status of a particular passenger provided his/her demographics information, passenger information (Ticket class, fare) and information related to the number of family and friends travelling together.
