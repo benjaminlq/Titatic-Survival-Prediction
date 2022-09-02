@@ -1,7 +1,7 @@
 # <center> Classification of Survival Status for Titanic Passengers </center>
 --------------------------------------------------
 
-# TABLE OF CONTENTS
+## TABLE OF CONTENTS
   - [Business Problems](#business-problems)
   - [Explanatory Data Analysis (EDA)](#explanatory-data-analysis-eda)
   - [Feature Engineering](#feature-engineering)
